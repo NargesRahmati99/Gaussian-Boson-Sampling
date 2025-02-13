@@ -2,13 +2,6 @@
 
 This repository contains a Python implementation of a Gaussian Boson Sampling (GBS) simulation using the Strawberry Fields library. GBS is a quantum computational task that demonstrates quantum advantage by sampling from the output distribution of a linear optical network with squeezed states as input.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Dependencies](#dependencies)
-- [License](#license)
 
 ## Introduction
 
